@@ -1,0 +1,88 @@
+{
+  "cities" :
+  [
+    {
+       "name":  "Agra",
+       "location": [27.18333, 78.01667]
+       
+     },
+     {
+       "name":  "Delhi",
+       "location": [28.7041, 77.1025]
+       
+     },
+      {
+       "name":  "Chandhigarh",
+       "location": [30.73629, 76.7884]
+       
+     },
+      {
+       "name":  "Jaipur",
+       "location": [26.91962, 75.78781]
+     },
+      {
+       "name":  "Bhopal",
+       "location": [23.25469, 77.40289]
+     },
+      {
+       "name":  "Ahmedabad",
+       "location": [23.02579, 72.58727]
+     },
+      {
+       "name":  "Rājkot",
+       "location": [22.29161, 70.79322]
+     },
+      {
+       "name":  "Allahābād",
+       "location": [25.44894, 81.83329]
+     },
+      {
+       "name":  "Amritsar",
+       "location": [31.63661, 74.87476]
+     },
+      {
+       "name":  "Aurangabad",
+       "location": [19.87757, 75.34226]
+     },
+      {
+       "name":  "Chennai",
+       "location": [13.08784, 80.27847]
+     },
+      {
+       "name":  "Hyderabad",
+       "location": [17.38405, 78.45636]
+     },
+      {
+       "name":  "Lucknow",
+       "location": [26.83928, 80.92313]
+     },
+      {
+       "name":  "Mumbai",
+       "location": [19.07283, 72.88261]
+     }, 
+     {
+       "name":  "Nagpur",
+       "location": [21.14631, 79.08491]
+     },
+      {
+       "name":  "Pune",
+       "location": [18.51957, 73.85535]
+     },
+      {
+       "name":  "Kolkata",
+       "location": [22.56263, 88.36304]
+     },
+      {
+       "name":  "Visakhapatnam",
+       "location": [17.68009, 83.20161]
+     },
+      {
+       "name":  "Bangalore",
+       "location": [12.97194, 77.59369]
+     },
+      {
+       "name":  "Srinagar",
+       "location": [34.08842, 74.80298]
+     }
+]
+}

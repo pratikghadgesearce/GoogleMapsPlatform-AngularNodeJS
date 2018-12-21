@@ -64,7 +64,10 @@ router.get('/hccbdemo', function (req, res, next) {
 router.get('/icicidemo', function (req, res, next) {
     res.sendFile(path.join(__dirname, '../', 'views', 'icici.html'));
 });
-
+//effem Demo
+router.get('/demo2', function (req, res, next) {
+    res.sendFile(path.join(__dirname, '../', 'views', 'effemdemo.html'));
+});
 //var googleMapsClient = googlemaps.createClient({
 //    key: 'AIzaSyDVR5iaxk4V2f3OqyyhwUrZdWvE7L7n8Uo'
 //});

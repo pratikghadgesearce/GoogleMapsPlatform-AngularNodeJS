@@ -10,6 +10,7 @@
     "@angular/cdk": "^6.3.0",
     "@angular/material": "^6.3.0",
     "@google/maps": "^0.4.6",
+    "angularjs-dropdown-multiselect": "^2.0.0-beta.10",
     "angularjs-slider": "^6.6.1",
     "background-process": "^1.0.0",
     "body-parser": "~1.17.1",
@@ -36,6 +37,7 @@
     "request-ip": "^2.0.2",
     "serve-favicon": "~2.4.2",
     "to": "^0.2.9",
-    "update": "^0.7.4"
+    "update": "^0.7.4",
+    "angular-bootstrap-multiselect": "^1.1.11"
   }
 }
