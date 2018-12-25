@@ -37,6 +37,7 @@
     infoWindow = new google.maps.InfoWindow();
     $scope.markers = [];
     var data1 = $scope.map.data.loadGeoJson('/districts.json');
+   // var data1 = $scope.map.data.loadGeoJson('https://storage.googleapis.com/gmapstaticfiles/districts.json');
     $scope.map.data.addGeoJson(data1);
 
     $scope.map.data.setStyle(function(feature) {
